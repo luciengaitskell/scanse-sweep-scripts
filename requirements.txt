@@ -1,0 +1,3 @@
+# Please check 'https://github.com/scanse/sweep-sdk' for installation:
+#   Make sure to install the `c` library first (`libsweep`), then `sweeppy`
+sweeppy==1.1
